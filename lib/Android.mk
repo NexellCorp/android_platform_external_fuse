@@ -31,8 +31,8 @@ common_src_files := \
 	ulockmgr.c
 
 common_c_includes := \
-	external/fuse/android \
-	external/fuse/include
+	vendor/nexell/external/fuse/android \
+	vendor/nexell/external/fuse/include
 
 common_shared_libraries := \
 	libutils
